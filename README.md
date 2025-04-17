@@ -13,7 +13,7 @@ Please cite our paper as:
     year = {2025},
     volume = {},
     number = {},
-    url = {https://www.mdpi.com/1424-8220/24/23/7539},
-    doi = {10.3390/s24237539}
+    url = {},
+    doi = {}
 }
 ```
